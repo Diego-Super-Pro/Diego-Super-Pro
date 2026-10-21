@@ -14,9 +14,9 @@ I build **custom WordPress solutions**, **full-stack web products**, and **pract
 
 | Project | What it is | Main technologies |
 |---|---|---|
-| **[Athena Gym](https://diego-super-pro.github.io/portfolio/#athena)** | Multi-role fitness platform for athletes, coaches and gyms: training, progress, messaging and administration. [Product site](https://athenagym.app/) | React Native, Expo, TypeScript, Supabase |
-| **[Chativia](https://diego-super-pro.github.io/portfolio/#chativia)** | Multi-tenant embeddable AI assistant with human handoff and business inbox; under active development. | Node.js, TypeScript, React, Prisma, PostgreSQL |
-| **[Linko Commander](https://diego-super-pro.github.io/portfolio/#linko)** | Private MCP-based developer tooling for controlled local operations, Git workflows and Android QA. | Node.js, TypeScript, MCP, automation |
+| **[Athena Gym](https://diego-super-pro.github.io/portfolio/athena-gym.html)** | Multi-role fitness platform for athletes, coaches and gyms: training, progress, messaging and administration. [Product site](https://athenagym.app/) | React Native, Expo, TypeScript, Supabase |
+| **[Chativia](https://diego-super-pro.github.io/portfolio/chativia.html)** | Multi-tenant embeddable AI assistant with human handoff and business inbox; under active development. [Product site](https://chativia.app/) and [public demo](https://chativia.app/c/demo-chativia). | Node.js, TypeScript, React, Prisma, PostgreSQL |
+| **[Linko Commander](https://diego-super-pro.github.io/portfolio/linko-commander.html)** | Private MCP-based developer tooling for controlled local operations, Git workflows and Android QA. | Node.js, TypeScript, MCP, automation |
 | **[WordPress engineering](https://diego-super-pro.github.io/portfolio/#wordpress)** | Custom plugins, WooCommerce, PHP, integrations, maintenance, performance and technical SEO across client projects. | WordPress, PHP, JavaScript, REST APIs |
 
 ### Technical areas
@@ -27,6 +27,14 @@ I build **custom WordPress solutions**, **full-stack web products**, and **pract
 - **Product and infrastructure:** multi-role workflows, authentication, integrations, testing, debugging, performance, automation
 
 > 🔒 **Why can't you see the product source repositories?** Athena Gym, Chativia and Linko Commander are independent/private projects. Their source code and infrastructure details are intentionally not public. This profile highlights the products, engineering responsibilities and technologies without exposing proprietary implementation or credentials. The [portfolio](https://diego-super-pro.github.io/portfolio/) contains illustrative previews, not screenshots from private environments.
+
+### Public project pages (no proprietary code)
+
+- 🏋️ **Athena Gym:** https://diego-super-pro.github.io/portfolio/athena-gym.html
+- 💬 **Chativia:** https://diego-super-pro.github.io/portfolio/chativia.html
+- 🧩 **Linko Commander:** https://diego-super-pro.github.io/portfolio/linko-commander.html
+
+These are public case studies, not the private repositories. Athena Gym and Chativia also have public product websites; Linko Commander does not expose a public development server.
 
 ### Let's collaborate
 
